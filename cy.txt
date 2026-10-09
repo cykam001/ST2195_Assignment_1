@@ -1,2 +1,6 @@
 This file is created in main branch at 4:33pm
+<<<<<<< HEAD
 hello 4:52pm
+=======
+cy eat potato in potato branch at 4:47pm
+>>>>>>> potato
